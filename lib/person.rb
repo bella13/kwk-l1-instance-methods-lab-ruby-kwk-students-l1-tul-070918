@@ -10,4 +10,11 @@ class Person
     @talk 
   end 
   
+  def walk 
+    @talk = walk
+  end 
+  
+  def talk 
+    @talk 
+  end 
   
