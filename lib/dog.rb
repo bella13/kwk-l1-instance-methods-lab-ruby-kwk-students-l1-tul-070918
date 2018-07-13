@@ -14,6 +14,16 @@ class Dog
     @bark = woof 
   end 
   
+  def woof
+    @woof 
+  end 
+  
+  def sit 
+    @sit 
+  end 
+  
+  
+  
   
   
   
