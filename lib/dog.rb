@@ -14,10 +14,6 @@ class Dog
     @bark = woof 
   end 
   
-  def woof 
-    @woof
-  end 
   
-end 
   
   
