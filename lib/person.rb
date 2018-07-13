@@ -14,7 +14,5 @@ class Person
     @talk = walk
   end 
   
-  def talk 
-    @talk 
-  end 
+  
   
